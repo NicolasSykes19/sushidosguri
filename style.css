@@ -1,0 +1,50 @@
+body {
+    background-image: url('https://img.freepik.com/vetores-premium/padrao-chines-vermelho-fundo-oriental-vetor_193606-172.jpg');
+    background-repeat: repeat;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h1 {
+    color: rgb(70, 16, 16);
+    font-size: 1.2em;
+}
+
+
+#principal {
+    width: 800px;
+}
+
+#menu {
+    background-color: brown;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#conteudo {
+    background-color: rgb(233, 127, 127);
+    font-size: 25px;
+    padding: 10px;
+}
+
+.img-cardapio {
+    border: 10px solid rgb(195, 133, 133);
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.titulo-cardapio {
+    color: rgb(65, 5, 5);
+    font-size: 1em;
+    font-style: italic;
+}
+
+
