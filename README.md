@@ -1,1 +1,1 @@
-This is a restaurant web site.
+This is a restaurant website.
